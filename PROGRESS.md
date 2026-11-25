@@ -50,3 +50,30 @@ Week of 25 November 2026:
 - Month 3: Earn HackerRank Python Basic certificate and reach 25 LeetCode Easy problems
 
 ---
+# My Coding Progress
+
+## HackerRank
+- Profile: https://www.hackerrank.com/profile/h2601730120
+- Python problems: completed
+
+## LeetCode
+- Profile: https://leetcode.com/u/harshx0x/
+- Problems solved: 2
+
+## freeCodeCamp
+- Profile:https://www.freecodecamp.org/fcc-676d0359-944e-468d-8a0e-39df6793e78e
+- Responsive Web Design: in progress
+
+## GitHub
+- Profile: https://github.com/harshx0x
+- Portfolio website: Completed
+- Git practice: Completed
+
+## Skills
+- Python: Beginner
+- Linux: Beginner
+- Git & GitHub: Beginner
+- HTML: Learning
+- CSS: Learning
+- Shell scripting: Learning
+- REST APIs: Learning
